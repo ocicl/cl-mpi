@@ -1,0 +1,10 @@
+* cl-mpi
+
+MPI bindings for Common Lisp with many useful extras
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marcoheisig/cl-mpi.git   |
+| commit  | ba92be0  |
+| systems | cl-mpi |
+|---------+-------------------------------------------|
+
